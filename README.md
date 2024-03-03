@@ -11,3 +11,18 @@ This repository wants to help you how to access in research, like everything abo
 ### b) Understand what the paper focus on
 ### c) If this paper with codes, you have to reproduce the code
 ### d) What is your future plan? how can we use papers and codes to expand its functions?
+
+
+## Some website you must know:
+### A) ABOUT CS
+#### 1) csdiy (https://csdiy.wiki/) !!!! -- you must read it!! MUST!!!  
+#### 2) Leetcode (https://leetcode.cn/)
+#### 3) dotcpp (https://www.dotcpp.com/)
+-------------------------------------------------
+### B) ABOUT AI TOOLS
+#### 1) chatgpt (https://chat.openai.com/)
+#### 2) consensus (https://consensus.app/search/)
+#### 3) chatpdf (https://www.chatpdf.com/)
+#### 4) perplexity (https://www.perplexity.ai/?login-source=floatingSignup)
+#### 5) connectedpapers (https://www.connectedpapers.com/)
+#### 6) paperswithcode (https://paperswithcode.com/)
