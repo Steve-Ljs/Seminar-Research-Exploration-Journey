@@ -5,7 +5,7 @@
 > by: Student's Research Association —— Deparment of Science and Academic  
 
 
-[![PDF](https://img.shields.io/badge/PDF-Read-blue)](example.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Read-blue)](papers)
 
 
 
