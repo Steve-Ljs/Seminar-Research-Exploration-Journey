@@ -5,6 +5,10 @@
 > by: Student's Research Association —— Deparment of Science and Academic  
 
 
+[![PDF](https://img.shields.io/badge/PDF-Read-blue)](example.pdf)
+
+
+
 ## Overview
 
 Welcome to the “Research Exploration Journey” workshop proposal repository! This repository contains all the necessary information and resources for organizing a workshop aimed at nurturing a passion for scientific research among members, imparting practical research methods and strategies, and leveraging the example of self-studying artificial intelligence to demonstrate how to effectively utilize various online resources and tools. The workshop aims to cultivate a self-driven learning model, develop good research habits, and ultimately enhance the research capabilities and literacy of all participants.
