@@ -29,7 +29,7 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 ### a) Finding What You Need
 ### b) Choosing Your Languages
 ### c) Learning Strategies
-### d) Problem Solving Techniques (ChatGPT, GitHub, Stack Overflow, Quora, CSDN)
+### d) Problem Solving Techniques (ChatGPT, GitHub, Stack_Overflow, Quora, CSDN)
 
 
 ## 2) Working with Papers
@@ -42,19 +42,19 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 ## Must-Know Websites:
 
 ### A) Computer Science Resources
-#### 1) [csdiy](https://csdiy.wiki/) - Essential resource for computer science self-learning!
-#### 2) [Leetcode](https://leetcode.cn/)
-#### 3) [dotcpp](https://www.dotcpp.com/)
+#### 1) [CSdiy] [![CSDIY](https://img.shields.io/badge/CSdiy-blue)](https://csdiy.wiki/)  - Essential resource for computer science self-learning!
+#### 2) [Leetcode] [![Leetcode](https://img.shields.io/badge/Leetcode-yellow)](https://leetcode.cn/)
+#### 3) [dotcpp] [![dotcpp](https://img.shields.io/badge/dotcpp-white)](https://www.dotcpp.com/)
 
 -------------------------------------------------
 
 ### B) AI Tools
-#### 1) [ChatGPT](https://chat.openai.com/)
-#### 2) [Consensus](https://consensus.app/search/)
-#### 3) [ChatPDF](https://www.chatpdf.com/)
-#### 4) [Perplexity](https://www.perplexity.ai/?login-source=floatingSignup)
-#### 5) [Connected Papers](https://www.connectedpapers.com/)
-#### 6) [Papers with Code](https://paperswithcode.com/)
+#### 1) [ChatGPT] [![ChatGPT](https://img.shields.io/badge/ChatGPT-green)](https://chat.openai.com/)
+#### 2) [Consensus] [![Consensus](https://img.shields.io/badge/Consensus-orange)](https://consensus.app/search/)
+#### 3) [ChatPDF] [![ChatPDF](https://img.shields.io/badge/ChatPDF-pink)](https://www.chatpdf.com/)
+#### 4) [Perplexity] [![Perplexity](https://img.shields.io/badge/Perplexity-black)](https://www.perplexity.ai/?login-source=floatingSignup)
+#### 5) [Connected Papers] [![Connected_Papers](https://img.shields.io/badge/Connected_Papers-purple)](https://www.connectedpapers.com/)
+#### 6) [Papers with Code] [![Papers_with_Code](https://img.shields.io/badge/Papers_with_Code-grey)](https://paperswithcode.com/)
 
 ---
 
