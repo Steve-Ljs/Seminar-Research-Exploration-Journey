@@ -52,7 +52,7 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 #### 1) [ChatGPT] [![ChatGPT](https://img.shields.io/badge/ChatGPT-green)](https://chat.openai.com/)
 #### 2) [Consensus] [![Consensus](https://img.shields.io/badge/Consensus-orange)](https://consensus.app/search/)
 #### 3) [ChatPDF] [![ChatPDF](https://img.shields.io/badge/ChatPDF-pink)](https://www.chatpdf.com/)
-#### 4) [Perplexity] [![Perplexity](https://img.shields.io/badge/Perplexity-black)](https://www.perplexity.ai/?login-source=floatingSignup)
+#### 4) [Perplexity] [![Perplexity](https://img.shields.io/badge/Perplexity-rainbow)](https://www.perplexity.ai/?login-source=floatingSignup)
 #### 5) [Connected Papers] [![Connected_Papers](https://img.shields.io/badge/Connected_Papers-purple)](https://www.connectedpapers.com/)
 #### 6) [Papers with Code] [![Papers_with_Code](https://img.shields.io/badge/Papers_with_Code-grey)](https://paperswithcode.com/)
 
