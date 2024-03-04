@@ -4,7 +4,7 @@
 
 > by: Student's Research Association —— Deparment of Science and Academic  
 
-[![Algorithm and Data Structures](https://img.shields.io/badge/Code-Study_and_Practice-red)](algorithm_and_Data_Structures.pdf)
+[![Algorithm and Data Structures](https://img.shields.io/badge/Code-Study_and_Practice-red)](Algorithm_and_Data_Structures)
 
 [![PDF](https://img.shields.io/badge/PDF-Read-blue)](papers)
 
