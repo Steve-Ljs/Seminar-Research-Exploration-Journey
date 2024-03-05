@@ -24,6 +24,7 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 - Establish a mutual learning community based on the GitHub platform, achieving long-term knowledge sharing and growth
 - Guide each member to discover and explore their own research learning path, laying a solid foundation for their academic advancement or career development
 
+---
 
 ## 1) Coding (Python, Java, C/C++)
 ### a) Finding What You Need
@@ -31,6 +32,7 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 ### c) Learning Strategies
 ### d) Problem Solving Techniques (ChatGPT, GitHub, Stack_Overflow, Quora, CSDN)
 
+---
 
 ## 2) Working with Papers
 ### a) Finding Interesting Papers
@@ -38,6 +40,7 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 ### c) Reproducing Code (If Available)
 ### d) Future Planning and Expansion Strategies
 
+---
 
 ## Must-Know Websites:
 
