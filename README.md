@@ -63,6 +63,7 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 
 ### c) Others
 #### 1) [Game Theory] [![The Evolotion of Trust](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://dccxi.com/trust/)
+#### 2) [Game Theory] [![The Evolution of Trust](https://img.shields.io/badge/Stackoverflow-100000?style=for-the-badge&logo=Stackoverflow&logoColor=orange)](https://stackoverflow.com/))
 
 ---
 
