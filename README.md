@@ -12,6 +12,7 @@
 
 
 
+
 ## 🔥Overview
 
 Welcome to the “Research Exploration Journey” workshop proposal repository! This repository contains all the necessary information and resources for organizing a workshop aimed at nurturing a passion for scientific research among members, imparting practical research methods and strategies, and leveraging the example of self-studying artificial intelligence to demonstrate how to effectively utilize various online resources and tools. The workshop aims to cultivate a self-driven learning model, develop good research habits, and ultimately enhance the research capabilities and literacy of all participants.
@@ -57,13 +58,12 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 #### 3) [ChatPDF] [![ChatPDF](https://img.shields.io/badge/ChatPDF-pink)](https://www.chatpdf.com/)
 #### 4) [Perplexity] [![Perplexity](https://img.shields.io/badge/Perplexity-rainbow)](https://www.perplexity.ai/?login-source=floatingSignup)
 #### 5) [Connected Papers] [![Connected_Papers](https://img.shields.io/badge/Connected_Papers-purple)](https://www.connectedpapers.com/)
-#### 6) [Papers with Code] [![Papers_with_Code](https://img.shields.io/badge/Papers_with_Code-grey)](https://paperswithcode.com/)
-
+#### 6) [![The Evolotion of Trust](https://img.shields.io/badge/Papers_with_Code-100000?style=for-the-badge&logo=Papers_with_Code&logoColor=red)](https://paperswithcode.com/)
 ---
 
 ### c) Others
-#### 1) [Game Theory] [![The Evolotion of Trust](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://dccxi.com/trust/)
-#### 2) [Game Theory] [![The Evolution of Trust](https://img.shields.io/badge/Stackoverflow-100000?style=for-the-badge&logo=Stackoverflow&logoColor=orange)](https://stackoverflow.com/))
+#### 1) [![The Evolotion of Trust](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://dccxi.com/trust/)
+#### 2) [![The Evolution of Trust](https://img.shields.io/badge/Stackoverflow-100000?style=for-the-badge&logo=Stackoverflow&logoColor=orange)](https://stackoverflow.com/)
 
 ---
 
