@@ -27,9 +27,9 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 
 ---
 
-## 1) Coding (Python, Java, C/C++)
+## 1) Coding (Python, Java, C/C++ and so on)
 ### a) Finding What You Need
-### b) Choosing Your Languages
+### b) Choosing Your Languages (In AI, you have to learn Python and C++, maybe a little Matlab)
 ### c) Learning Strategies
 ### d) Problem Solving Techniques (ChatGPT, GitHub, Stack_Overflow, Quora, CSDN)
 
