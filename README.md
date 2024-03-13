@@ -46,9 +46,9 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 ## Must-Know Websites:
 
 ### A) Computer Science Resources
-#### 1) [CSdiy] [![CSDIY](https://img.shields.io/badge/CSdiy-blue)](https://csdiy.wiki/)  - Essential resource for computer science self-learning!
-#### 2) [Leetcode] [![Leetcode](https://img.shields.io/badge/Leetcode-yellow)](https://leetcode.cn/) -  Great platform for Algorithm and Data Structures
-#### 3) [dotcpp] [![dotcpp](https://img.shields.io/badge/dotcpp-white)](https://www.dotcpp.com/) Great platform for computer competition (icpc,ccpc,ACM)
+#### 1) [![The Evolution of Trust](https://img.shields.io/badge/csdiy-1000?style=for-the-badge&logo=csdiy&logoColor=black)](https://csdiy.wiki/)  - Essential resource for computer science self-learning!
+#### 2)[![The Evolution of Trust](https://img.shields.io/badge/leetcode-1000?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.cn/) -  Great platform for Algorithm and Data Structures
+#### 3) [![The Evolution of Trust](https://img.shields.io/badge/dotcpp-1000?style=for-the-badge&logo=dotcpp&logoColor=blue)](https://www.dotcpp.com/) Great platform for computer competition (icpc,ccpc,ACM)
 #### 4) [![The Evolution of Trust](https://img.shields.io/badge/Helloalgo-1000?style=for-the-badge&logo=Helloalgo&logoColor=blue)](https://www.hello-algo.com/chapter_preface/)
 -------------------------------------------------
 
