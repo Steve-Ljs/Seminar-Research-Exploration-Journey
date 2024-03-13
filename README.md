@@ -49,15 +49,15 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 #### 1) [![The Evolution of Trust](https://img.shields.io/badge/csdiy-1000?style=for-the-badge&logo=csdiy&logoColor=black)](https://csdiy.wiki/)  - Essential resource for computer science self-learning!
 #### 2)[![The Evolution of Trust](https://img.shields.io/badge/leetcode-1000?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.cn/) -  Great platform for Algorithm and Data Structures
 #### 3) [![The Evolution of Trust](https://img.shields.io/badge/dotcpp-1000?style=for-the-badge&logo=dotcpp&logoColor=blue)](https://www.dotcpp.com/) Great platform for computer competition (icpc,ccpc,ACM)
-#### 4) [![The Evolution of Trust](https://img.shields.io/badge/Helloalgo-1000?style=for-the-badge&logo=Helloalgo&logoColor=blue)](https://www.hello-algo.com/chapter_preface/)
+#### 4) [![The Evolution of Trust](https://img.shields.io/badge/Helloalgo-1000?style=for-the-badge&logo=Helloalgo&logoColor=blue)](https://www.hello-algo.com/chapter_preface/) New place to learn algo, including Python, Java, C/C++
 -------------------------------------------------
 
 ### B) AI Tools
-#### 1) [ChatGPT] [![ChatGPT](https://img.shields.io/badge/ChatGPT-green)](https://chat.openai.com/)
-#### 2) [Consensus] [![Consensus](https://img.shields.io/badge/Consensus-orange)](https://consensus.app/search/)
-#### 3) [ChatPDF] [![ChatPDF](https://img.shields.io/badge/ChatPDF-pink)](https://www.chatpdf.com/)
-#### 4) [Perplexity] [![Perplexity](https://img.shields.io/badge/Perplexity-rainbow)](https://www.perplexity.ai/?login-source=floatingSignup)
-#### 5) [Connected Papers] [![Connected_Papers](https://img.shields.io/badge/Connected_Papers-purple)](https://www.connectedpapers.com/)
+#### 1 [![Chatgpt](https://img.shields.io/badge/Chatgpt-100000?style=for-the-badge&logo=Chatgpt&logoColor=Blue)](https://chat.openai.com/)
+#### 2) [![Consensus](https://img.shields.io/badge/consensus-100000?style=for-the-badge&logo=consensus&logoColor=Blue)](https://consensus.app/search/)
+#### 3) [![Chatpdf](https://img.shields.io/badge/Chatpdf-100000?style=for-the-badge&logo=Chatpdf&logoColor=Blue)](https://www.chatpdf.com/)
+#### 4) [![Perplexity](https://img.shields.io/badge/Perplexity-100000?style=for-the-badge&logo=Perplexitys&logoColor=Blue)](https://www.perplexity.ai/?login-source=floatingSignup)
+#### 5) [![Connected Papers](https://img.shields.io/badge/Connected_Papers-100000?style=for-the-badge&logo=Connected_Papers&logoColor=Blue)](https://www.connectedpapers.com/)
 #### 6) [![The Evolotion of Trust](https://img.shields.io/badge/Papers_with_Code-100000?style=for-the-badge&logo=Papers_with_Code&logoColor=red)](https://paperswithcode.com/)
 ---
 
