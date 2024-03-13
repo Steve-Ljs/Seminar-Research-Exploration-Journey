@@ -1,5 +1,5 @@
-# You have to know
-## A) Each folder has one textbook
+# You have to know 🔥
+## A) Each folder has textbooks
 ### 1) Because AI develop so rapidly that we can't learn new thing in textbook, but we can obtain knowledge in chorme, github, stack overflow and so on
 ### 2) Although CV(computer visual) is different from NLP(National Language Processing), they still have similiarities, such as Transformer(V-it), that means we can both them can give us ideas
 ### 3) If you want to apply for PHD or publish high-quality paper, I recommend you should choose your research direction quickly and work with it.
