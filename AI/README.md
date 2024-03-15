@@ -25,3 +25,4 @@
 ## Optional/Supplementary Materials
 
  1. https://github.com/apachecn/ai-roadmap/tree/master/v1.0
+ 2. https://github.com/HarleysZhang/cv_note
