@@ -50,6 +50,7 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 #### 2)[![The Evolution of Trust](https://img.shields.io/badge/leetcode-1000?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.cn/) -  Great platform for Algorithm and Data Structures
 #### 3) [![The Evolution of Trust](https://img.shields.io/badge/dotcpp-1000?style=for-the-badge&logo=dotcpp&logoColor=blue)](https://www.dotcpp.com/) Great platform for computer competition (icpc,ccpc,ACM)
 #### 4) [![The Evolution of Trust](https://img.shields.io/badge/Helloalgo-1000?style=for-the-badge&logo=Helloalgo&logoColor=blue)](https://www.hello-algo.com/chapter_preface/) New place to learn algo, including Python, Java, C/C++
+#### 5) [![The Evolution of Trust](https://img.shields.io/badge/Kagggle-1000?style=for-the-badge&logo=Kaggle&logoColor=blue)](https://www.kaggle.com/) Learn AI skills and join in the competition
 -------------------------------------------------
 
 ### B) AI Tools
