@@ -65,14 +65,7 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 #### 1) [![The Evolotion of Trust](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://dccxi.com/trust/)
 #### 2) [![The Evolution of Trust](https://img.shields.io/badge/Stackoverflow-100000?style=for-the-badge&logo=Stackoverflow&logoColor=orange)](https://stackoverflow.com/)
 
----
-## Experiences:
-### Tony(Zhentong Ye): (updating)
 
-### Lasersnake(Yanwu Lang): (updating)
-
-### Steve(Jiashu Li):
-#### Here are three basic things to study AI is 1. Data Structures and Algorithms 2. Math 3. AI itself. And the best tool of studying AI is Google, learn everything about CS(software engineering,computer security, AI and so on) in Google
 ---
 ## Contributing
 
