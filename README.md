@@ -96,8 +96,10 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 
 ```
 
-https://drive.google.com/file/d/1UrKVIBZnUrbq5oDYE6dBs0ZBmxVBzFUy/view?usp=sharing. (2022)
-https://once.wku.edu.cn/portal/student/bszn?id=afe8bcf4027244fe8a99e264216e7024 (2023)
+https://drive.google.com/file/d/1UrKVIBZnUrbq5oDYE6dBs0ZBmxVBzFUy/view?usp=sharing.
+# (2022)
+https://once.wku.edu.cn/portal/student/bszn?id=afe8bcf4027244fe8a99e264216e7024
+# (2023)
 
 ```
 
