@@ -88,6 +88,3 @@ After clicking the link, you can see the pdf file. Only With reviewer permission
 Contributions to this repository are welcome! If you have any suggestions or improvements for the workshop proposal, please feel free to submit an issue or create a pull request. Let’s work together to create an engaging and valuable workshop for everyone interested in scientific research.
 
 
-
-Note: Version 1.0 - March 4, 2024.
-
