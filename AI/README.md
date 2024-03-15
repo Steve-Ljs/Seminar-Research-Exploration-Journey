@@ -6,7 +6,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## B)How to study AI
 ### 1) Kaggle is a nice website to learn(https://www.kaggle.com/) 
-### 2) Σ(っ °Д °;)っ (https://datawhale.feishu.cn/docs/doccn0AOicI3LJ8RwhY0cuDPSOc) Check it
+### 2) Σ(っ °Д °;)っ (https://datawhale.feishu.cn/docs/doccn0AOicI3LJ8RwhY0cuDPSOc) + (https://github.com/apachecn/ai-roadmap/tree/master) Check it
 ### 3）If you are interested in CV like me. (https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/EECS498-007/)
 
 # Please remember, 'Computer and AI are created by human, I absolutely believe that you can have a good command of them.
