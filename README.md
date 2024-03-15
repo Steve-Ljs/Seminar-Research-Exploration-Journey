@@ -68,13 +68,17 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 
 ---
 
-## How to apply for Master's degree and PhD：
+## How to apply for Master's degree and PhD ———— Plan your FUTURE first：
 
-### 1. Feiyue Manual of WKU: How to view the 2022 version of the Feiyue Manual: Log in to the Meken email and click this link 
- ```
+### 1. Feiyue Manual of WKU: How to view the “Feiyue Manual”: Click this link and Login via your email account:
+
+```
+
 https://drive.google.com/file/d/1UrKVIBZnUrbq5oDYE6dBs0ZBmxVBzFUy/view?usp=sharing. (2022)
 https://once.wku.edu.cn/portal/student/bszn?id=afe8bcf4027244fe8a99e264216e7024 (2023)
+
 ```
+
 After clicking the link, you can see the pdf file. Only With reviewer permissions, you cannot download, modify or print files. In addition, I appeal to everyone here: 1. Do not take screenshots and send them to others. 2. Only disseminate within the school. 
 ### 2. 1point3acres: (https://www.1point3acres.com/) 1point3acres provide many experiences about studying abroad, life in North America and so on.
 
