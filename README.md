@@ -67,6 +67,13 @@ Welcome to the “Research Exploration Journey” workshop proposal repository! 
 
 
 ---
+
+## How to apply for Master's degree and PhD：
+
+### 1. Feiyue Manual of WKU: How to view the 2022 version of the Feiyue Manual: Log in to the Meken email and click this link https://drive.google.com/file/d/1UrKVIBZnUrbq5oDYE6dBs0ZBmxVBzFUy/view?usp=sharing. After clicking the link, you can see the pdf file. Only With reviewer permissions, you cannot download, modify or print files. In addition, I appeal to everyone here: 1. Do not take screenshots and send them to others. 2. Only disseminate within the school. 
+### 2. 1point3acres: (https://www.1point3acres.com/) 1point3acres provide many experiences about studying abroad, life in North America and so on.
+
+---
 ## Contributing
 
 Contributions to this repository are welcome! If you have any suggestions or improvements for the workshop proposal, please feel free to submit an issue or create a pull request. Let’s work together to create an engaging and valuable workshop for everyone interested in scientific research.
